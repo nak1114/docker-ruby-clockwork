@@ -1,0 +1,13 @@
+.git
+.rspec
+.gitignore
+.dockerignore
+.dcenv_windows
+docker-*
+log
+tmp
+vendor/assets
+node_modules
+docker
+Dockerfile
+docker-compose.yml
